@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Neko911/telegram-bot-demo.git",
+  "author": "Vladyslav Shurbin <kusyka911@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^1.19.1"
+  }
+}
